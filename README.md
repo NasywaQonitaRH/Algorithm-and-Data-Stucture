@@ -9,9 +9,9 @@
 
 ## 2.1.1. Selection Solution
 
-The solution is implemented in Pemilihan1.java, and below is screenshot of the result.
+The solution is implemented in Selection.java, and below is screenshot of the result.
 
-![Screenshot](img/img1.png)
+![Screenshot](Imagetask/img1.png)
 
 **Brief explanaton:** There are 4 main step: 
 1. Input all grades
