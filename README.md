@@ -1,9 +1,9 @@
 |  | Algorithm and Data Structure |
 |--|--|
-| NIM |  1234567|
-| Nama |  You know who |
+| NIM |  244107020170|
+| Nama |  Nasywa Qonita RH |
 | Kelas | TI - 1I |
-| Repository | [link] (https://github.com/jti-polinema/-01-contoh-laporan-react) |
+| Repository | [link] (-) |
 
 # Labs #1 Programming Fundamentals Review
 
