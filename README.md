@@ -11,7 +11,7 @@
 
 The solution is implemented in Selection.java, and below is screenshot of the result.
 
-![Screenshot] (Imagetask/Screenshot 2025-02-12 145530.png)
+![Screenshot] (<Screenshot 2025-02-12 145530.png>)
 
 **Brief explanaton:** There are 4 main step: 
 1. Input all grades
