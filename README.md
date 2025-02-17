@@ -11,7 +11,7 @@
 
 The solution is implemented in Selection.java, and below is screenshot of the result.
 
-![Screenshot] (<Screenshot 2025-02-12 145530.png>)
+![Image](https://github.com/user-attachments/assets/c9aec40c-96ba-4bb2-b21f-326b675bd5f0)
 
 **Brief explanaton:** There are 4 main step: 
 1. Input all grades
