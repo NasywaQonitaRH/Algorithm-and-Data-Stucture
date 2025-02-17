@@ -3,7 +3,7 @@
 | NIM |  244107020170|
 | Nama |  Nasywa Qonita RH |
 | Kelas | TI - 1I |
-| Repository | [link] (-) |
+| Repository | [link] (https://github.com/NasywaQonitaRH/Algorithm-and-Data-Stucture) |
 
 # Labs #1 Programming Fundamentals Review
 
